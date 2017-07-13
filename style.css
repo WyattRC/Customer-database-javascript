@@ -1,0 +1,15 @@
+header h1{
+  text-align: center;
+
+}
+article {
+  display: flex;
+
+}
+.info {
+  text-align: center;
+}
+.pic {
+  display: flex;
+  justify-content: center;
+}
